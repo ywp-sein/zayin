@@ -12,6 +12,7 @@ In Berlin, walking with a local church and journeying alongside several Christia
     - Prayers for SEiN
         - [blog form](https://www.sein-live.com/prayers)
         - [ebook form](https://ywp-sein.github.io/sein_prayers)
+    - [Knowledge Hub](https://ywp-sein.github.io/sein_knowledge_hub) 
 - [Released and Set Free](https://ywp-sein.github.io/released_and_set_free)
     - A space for some contemplations and writings
 - [Zayin](https://ywp-sein.github.io/zayin)
